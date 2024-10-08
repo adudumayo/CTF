@@ -1,0 +1,25 @@
+{
+  "name": "wtf",
+  "version": "1.0.0",
+  "description": "Web Based Capture The Flag game",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adudumayo/WTF.git"
+  },
+  "author": "dumza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adudumayo/WTF/issues"
+  },
+  "homepage": "https://github.com/adudumayo/WTF#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.12.0",
+    "eslint": "^9.12.0",
+    "eslint-plugin-react": "^7.37.1",
+    "globals": "^15.10.0"
+  }
+}
